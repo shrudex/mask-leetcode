@@ -18,6 +18,11 @@ The extension uses a content script to scan and modify the text content of eleme
 - **Chrome Extensions API**: Provides the framework to build the extension.
 - **HTML**: Used for the extension's manifest file.
 
+### Preview 
+![image](https://github.com/shrudex/mask-leetcode/assets/91502997/c6df72ce-e6bb-43c4-95e8-48ae08245144)
+![image](https://github.com/shrudex/mask-leetcode/assets/91502997/e57cbe4a-e3a9-4cc6-aeaa-fb5a6ff6f1e0)
+
+
 ## Installation
 
 Follow these steps to install the Mask LeetCode extension on your personal computer:
